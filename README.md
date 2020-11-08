@@ -6,5 +6,5 @@ RGB (Red, Green, Blue) is a system of representing colors on a computer display.
 
 ## View Live App at
 
-<a href="https://arokianivin09.github.io/RGBColorGame/">:octocat: React App :octocat:</a>
+<a href="https://arokianivin09.github.io/RGBColorGame/">:octocat: RGB-Color-Guessing-Game :octocat:</a>
 
